@@ -40,8 +40,8 @@
 This is a research project, NOT a commercial product. Users are granted the freedom to create images using this tool, but they are expected to comply with local laws and utilize it in a responsible manner. The developers do NOT assume any responsibility for potential misuse by users.
 
 ## TODO
-<input type="checkbox" disabled /> Release inference code and model. We are now going through the open source procedure in the company. We will release the code and model after the procedure is completed.
-<input type="checkbox" disabled /> Integrate with SDXL.
+- [ ] Release inference code and model. We are now going through the open source procedure in the company. We will release the code and model after the procedure is completed.
+- [ ] Integrate with SDXL.
 
 
 

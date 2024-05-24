@@ -58,5 +58,16 @@ This is a research project, NOT a commercial product. Users are granted the free
 ## Contact
 For any questions on this project, please contact [Yujun](https://yujun-shi.github.io/) (shi.yujun@u.nus.edu) and [Jun Hao](https://scholar.google.com.sg/citations?user=8gm-CYYAAAAJ&hl=en) (junhao.liew@bytedance.com)
 
+## BibTeX
+If you find our repo helpful, please consider leaving a star or cite our paper :)
+```bibtex
+@article{shi2024instadrag,
+         title={InstaDrag: Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos},
+         author={Shi, Yujun and Liew, Jun Hao, and Yan, Hanshu and Tan, Vincent YF and Feng, Jiashi},
+         journal={arXiv preprint arXiv:2405.13722},
+         year={2024}
+}
+```
+
 ## Acknowledgement
 Source image samples are collected from [unsplash](https://unsplash.com/), [pexels](https://www.pexels.com/zh-cn/), [pixabay](https://pixabay.com/). Also, a huge shout-out to all the amazing open source diffusion models, libraries, and technical reports.

@@ -21,6 +21,7 @@
   </div>
 
   <p align="center">
+    <a href="https://arxiv.org/abs/2405.13722"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2405.13722-b31b1b.svg"></a>
     <a href="https://instadrag.github.io"><img alt='page' src="https://img.shields.io/badge/Project-Website-orange"></a>
     <a href="https://twitter.com/YujunPeiyangShi"><img alt='Twitter' src="https://img.shields.io/twitter/follow/YujunPeiyangShi?label=%40YujunPeiyangShi"></a>
     <a href="https://twitter.com/jhliew91"><img alt='Twitter' src="https://img.shields.io/twitter/follow/jhliew91?label=%40jhliew91"></a>

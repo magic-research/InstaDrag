@@ -41,8 +41,10 @@
 This is a research project, NOT a commercial product. Users are granted the freedom to create images using this tool, but they are expected to comply with local laws and utilize it in a responsible manner. The developers do NOT assume any responsibility for potential misuse by users.
 
 ## TODO
-- [ ] Release inference code and model. We are now going through the open source procedure in the company. We will release the code and model after the procedure is completed (**expected 2-4 weeks**).
+- [ ] Release inference code and model.
 - [ ] Integrate with SDXL.
+
+*Although we have obtained preliminary approval for open-sourcing the code, the code review process was stuck at some point due to internal circumstances. We are sorry for the delay, and we will release it as soon as the code review process completes.*
 
 
 
